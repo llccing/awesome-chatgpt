@@ -1,6 +1,6 @@
-# awesome-chatgpt
+# ![logo](https://user-images.githubusercontent.com/12945329/206667377-42580ceb-91c5-4de2-8276-d9991a8094e2.svg)  awesome-chatgpt
 
-![logo](https://user-images.githubusercontent.com/12945329/206667377-42580ceb-91c5-4de2-8276-d9991a8094e2.svg) [ChatGPT](https://openai.com/blog/chatgpt/) Optimizing Language Models for Dialogue.
+[ChatGPT](https://openai.com/blog/chatgpt/) Optimizing Language Models for Dialogue.
 
 ## Resources
 
