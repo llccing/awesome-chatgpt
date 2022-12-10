@@ -5,17 +5,13 @@
 
 ## Resources
 
-- [cloudflare-chatgpt](https://github.com/cmdhelp/cloudflare-chatgpt) run chatgpt in cloudflare worker, then you can call it anywhere
-- [chatgpt-mac](https://github.com/vincelwt/chatgpt-mac) This is a simple app that makes ChatGPT live in your menubar.
-- [ChineseAiDungeonChatGPT](https://github.com/bupticybee/ChineseAiDungeonChatGPT) The Chinese version of the ai dungeon directly uses openai's ChatGPT api as a storytelling model.
-- [chatgpt-web](https://github.com/yi-ge/chatgpt-web) Multi-user h5 version, 3rd party ChatGPT web page. Uses OpenAPI official web API.
-
-
-### Get a Account
+### Account
 
 - [https://chat.openai.com/chat](https://chat.openai.com/chat) official website
 - [tutorials from juejin](https://juejin.cn/post/7173447848292253704) OpenAI launched Super God ChatGPT registration strategy is coming
 - Almighty Taobao
+- [gpt chatapi art](https://gpt.chatapi.art/) Can experience and do not need an account
+- [chatgpt-web](https://github.com/yi-ge/chatgpt-web) Multi-user h5 version, 3rd party ChatGPT web page. Uses OpenAPI official web API.
 
 ### Integration with Chrome
 
@@ -29,7 +25,13 @@
 - [wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt) Use ChatGPT On Wechat via wechaty
 - [wechaty-chatgpt](https://github.com/sunshanpeng/wechaty-chatgpt)  Use ChatGPT On Wechat via wechaty
 
+### Others
 
-### blogs
+- [cloudflare-chatgpt](https://github.com/cmdhelp/cloudflare-chatgpt) run chatgpt in cloudflare worker, then you can call it anywhere
+- [chatgpt-mac](https://github.com/vincelwt/chatgpt-mac) This is a simple app that makes ChatGPT live in your menubar.
+- [ChineseAiDungeonChatGPT](https://github.com/bupticybee/ChineseAiDungeonChatGPT) The Chinese version of the ai dungeon directly uses openai's ChatGPT api as a storytelling model.
+
+## blogs
 
 - [play-chatgpt-with-wechaty](https://wechaty.js.org/2022/12/07/play-chatgpt-with-wechaty/) play chatgpt with wechaty
+
